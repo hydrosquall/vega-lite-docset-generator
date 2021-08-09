@@ -1,0 +1,5 @@
+vega-lite-docs/
+vega-lite.docset/
+vega-lite.tgz
+.DS_Store
+.ipynb_checkpoints/
